@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">30 дней Android</string>
+    <string name="app_subtitle">Android + Compose</string>
+    <string name="screen_thirty_days">30 дней</string>
+
+    <string name="progress_title">Твой прогресс</string>
+    <string name="progress_of">Выполнено %1$d из %2$d</string>
+    <string name="progress_hint">Отмечай выполненные дни — прогресс сохраняется при повороте экрана.</string>
+    <string name="progress_done">Все 30 дней пройдены. Отличная работа!</string>
+    <string name="progress_done_short">Готово: %1$d%%</string>
+
+    <string name="mark_completed">Отметить выполненным</string>
+    <string name="completed">Выполнено</string>
+    <string name="tip_completed_state">День выполнен</string>
+    <string name="tip_not_completed_state">День не выполнен</string>
+    <string name="expand_tip">Развернуть совет</string>
+    <string name="collapse_tip">Свернуть совет</string>
+
+    <string name="choose_theme">Цветовая схема</string>
+    <string name="choose_theme_description">Выберите акцентный цвет — Material Theme обновится сразу.</string>
+    <string name="choose_theme_cd">Выбрать цветовую схему</string>
+    <string name="close">Готово</string>
+
+    <string name="open_superheroes">Открыть экран супергероев</string>
+    <string name="back">Назад</string>
+    <string name="superheroes">Супергерои</string>
+    <string name="superheroes_subtitle">Практика: Material Design, анимации и доступность</string>
+    <string name="heroes_count">%1$d героев в коллекции</string>
+    <string name="heroes_hint">Нажмите на карточку, чтобы прочитать описание. Сердечко добавляет героя в избранное.</string>
+    <string name="power">Сила</string>
+    <string name="favorite_add">Добавить в избранное</string>
+    <string name="favorite_remove">Убрать из избранного</string>
+
+    <string name="random_tip">Случайный совет</string>
+    <string name="all_days_done">Все 30 дней уже пройдены. Попробуйте экран «Супергерои»!</string>
+    <string name="day_label">День %1$d</string>
+    <string name="thirty_days_content_description">30 дней Android, выполнено %1$d из %2$d</string>
+</resources>
